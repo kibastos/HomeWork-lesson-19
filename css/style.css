@@ -1,0 +1,11 @@
+
+
+.text {
+  text-indent: 25px;
+  color: #808080;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 900; 
+  letter-spacing: 3px;
+  text-align: justify;
+}
